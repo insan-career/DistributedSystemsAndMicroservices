@@ -16,7 +16,9 @@
       "launchUrl": "swagger",
       "applicationUrl": "http://localhost:5133",
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "BaseUrl": "http://localhost",
+        "UrlPort": "5133"
       }
     },
     "https": {
@@ -26,7 +28,9 @@
       "launchUrl": "swagger",
       "applicationUrl": "https://localhost:7254;http://localhost:5133",
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "BaseUrl": "https://localhost",
+        "UrlPort": "7254"
       }
     },
     "IIS Express": {
@@ -34,7 +38,9 @@
       "launchBrowser": true,
       "launchUrl": "swagger",
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "BaseUrl": "https://localhost",
+        "UrlPort": "44374"
       }
     }
   }

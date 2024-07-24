@@ -7,11 +7,10 @@
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/insan-career/jimmy-koobits.git
-2. Go to folder `Programming/DistributedSystemsAndMicroservices`
-3. Double click on `DistributedSystemsAndMicroservices.sln`
-4. On top menu bar, click on `Build -> Build Solution` 
-5. Make sure `Build Output` on below panel is showing `Build completed in [00:00:xx.xxx]`
+   git clone https://github.com/insan-career/DistributedSystemsAndMicroservices.git
+2. Double click on `DistributedSystemsAndMicroservices.sln`
+3. On top menu bar, click on `Build -> Build Solution` 
+4. Make sure `Build Output` on below panel is showing `Build completed in [00:00:xx.xxx]`
 
 ### Run
 1. On top menu bar, click on `Run -> Run DistributedSystemsAndMicroservices:https` 
@@ -22,7 +21,7 @@
 ### Test
 1. Open `postman`
 2. On top menu bar, click on `File -> Import`
-3. Go to folder `Programming/DistributedSystemsAndMicroservices/Postman`
+3. Go to folder `Postman`
 4. Drop the file `Koobits_DistributedSystemsAndMicroservices.postman_collection.json` 
 inside the import file drop box
 5. Wait the postman to load all the requests and test cases
