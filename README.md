@@ -16,15 +16,16 @@
 6. On `Build Output` panel below, make sure it is showing `Build completed in [00:00:xx.xxx]`
 
 ### Run
-1. On top menu bar, click on `Run -> Run DistributedSystemsAndMicroservices:https` 
-2. The swagger UI will appear and list each of the users and orders API detail
+1. On top menu bar, click on `Run -> Run ...`
+2. Choose `DistributedSystemsAndMicroservices:https` 
+3. The swagger UI will appear and list each of the users and orders API detail
    For example: https://localhost:7246/swagger/index.html
-3. Test each of the users and orders API using swagger UI
+4. Test each of the users and orders API using swagger UI
 
 ### Test
 
 #### Prerequisites
-Please note if testing using postman, the setup and run need to be completed succesfully first
+Please note if testing using postman, the setup and run need to be COMPLETED first
 
 1. Open `postman`
 2. On top menu bar, click on `File -> Import`
