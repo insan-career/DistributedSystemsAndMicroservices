@@ -13,7 +13,7 @@
 3. Double click on `DistributedSystemsAndMicroservices.sln`
 4. Wait for the Jetbrains Rider IDE to launch
 5. On top menu bar, click on `Build -> Build Solution` 
-6. On panel `Build Output` below, make sure it is showing `Build completed in [00:00:xx.xxx]`
+6. On `Build Output` panel below, make sure it is showing `Build completed in [00:00:xx.xxx]`
 
 ### Run
 1. On top menu bar, click on `Run -> Run DistributedSystemsAndMicroservices:https` 
